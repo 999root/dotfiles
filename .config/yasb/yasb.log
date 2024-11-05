@@ -1,0 +1,1061 @@
+2024-10-06 14:06:05 INFO log.py:21: Yasb
+2024-10-06 14:06:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-06 14:06:07 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:06:07.872576
+2024-10-06 14:06:09 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-06 14:06:15 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:06:15.712045
+2024-10-06 14:06:15 INFO event_listener.py:52: Created named pipe yasb-c4fd3e94-83e3-11ef-a066-a036bcba6288
+2024-10-06 14:06:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c4fd3e94-83e3-11ef-a066-a036bcba6288
+2024-10-06 14:06:15 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-06 14:06:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-06 14:06:15 DEBUG _windows.py:192: Thread started
+2024-10-06 14:06:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c4fd3e94-83e3-11ef-a066-a036bcba6288
+2024-10-06 14:07:28 ERROR main.py:63: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\widgets\yasb\active_window.py", line 157, in _on_window_name_change_event
+    def _on_window_name_change_event(self, hwnd: int, event: WinEvent) -> None:
+    
+KeyboardInterrupt
+2024-10-06 14:07:57 INFO log.py:21: Yasb
+2024-10-06 14:07:57 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-06 14:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:07:58.329656
+2024-10-06 14:07:58 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-06 14:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:07:59.397232
+2024-10-06 14:07:59 INFO event_listener.py:52: Created named pipe yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 14:07:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 14:07:59 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-06 14:07:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-06 14:07:59 DEBUG _windows.py:192: Thread started
+2024-10-06 14:07:59 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 14:14:20 INFO tray.py:160: Created shortcut at C:\Users\bennp\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2024-10-06 14:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:17:58.331117
+2024-10-06 14:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:17:59.407322
+2024-10-06 14:20:59 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:20:59 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:20:59 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:20:59 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:27:58.324722
+2024-10-06 14:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:27:59.422294
+2024-10-06 14:37:29 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:37:29 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:37:29 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:37:29 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-06 14:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:37:58.325854
+2024-10-06 14:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:37:59.435951
+2024-10-06 14:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:47:58.317839
+2024-10-06 14:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:47:59.433705
+2024-10-06 14:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:57:58.322914
+2024-10-06 14:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 14:57:59.429807
+2024-10-06 15:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:07:58.338073
+2024-10-06 15:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:07:59.444466
+2024-10-06 15:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:17:58.352806
+2024-10-06 15:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:17:59.452577
+2024-10-06 15:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:27:58.360291
+2024-10-06 15:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:27:59.453529
+2024-10-06 15:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:37:58.372422
+2024-10-06 15:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:37:59.462764
+2024-10-06 15:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:47:58.373323
+2024-10-06 15:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:47:59.469685
+2024-10-06 15:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:57:58.389985
+2024-10-06 15:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 15:57:59.465907
+2024-10-06 16:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:07:58.394887
+2024-10-06 16:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:07:59.465340
+2024-10-06 16:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:17:58.397419
+2024-10-06 16:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:17:59.467984
+2024-10-06 16:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:27:58.403230
+2024-10-06 16:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:27:59.460437
+2024-10-06 16:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:37:58.399129
+2024-10-06 16:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:37:59.483402
+2024-10-06 16:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:47:58.409740
+2024-10-06 16:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:47:59.499381
+2024-10-06 16:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:57:58.415492
+2024-10-06 16:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 16:57:59.509147
+2024-10-06 17:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:07:58.418000
+2024-10-06 17:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:07:59.520712
+2024-10-06 17:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:17:58.424081
+2024-10-06 17:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:17:59.527980
+2024-10-06 17:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:27:58.433878
+2024-10-06 17:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:27:59.537608
+2024-10-06 17:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:37:58.452106
+2024-10-06 17:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:37:59.555347
+2024-10-06 17:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:47:58.459384
+2024-10-06 17:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:47:59.563185
+2024-10-06 17:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:57:58.481625
+2024-10-06 17:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 17:57:59.567710
+2024-10-06 18:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:07:58.489369
+2024-10-06 18:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:07:59.580100
+2024-10-06 18:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:17:58.501605
+2024-10-06 18:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:17:59.587716
+2024-10-06 18:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:27:58.503936
+2024-10-06 18:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:27:59.593863
+2024-10-06 18:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:37:58.528458
+2024-10-06 18:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:37:59.597543
+2024-10-06 18:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:47:58.540154
+2024-10-06 18:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:47:59.611664
+2024-10-06 18:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:57:58.542214
+2024-10-06 18:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 18:57:59.612922
+2024-10-06 19:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:07:58.549152
+2024-10-06 19:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:07:59.621736
+2024-10-06 19:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:17:58.559060
+2024-10-06 19:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:17:59.630990
+2024-10-06 19:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:27:58.554835
+2024-10-06 19:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:27:59.649245
+2024-10-06 19:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:37:58.577112
+2024-10-06 19:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:37:59.652766
+2024-10-06 19:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:47:58.586928
+2024-10-06 19:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:47:59.659940
+2024-10-06 19:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:57:58.608603
+2024-10-06 19:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 19:57:59.670708
+2024-10-06 20:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:07:58.606660
+2024-10-06 20:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:07:59.667633
+2024-10-06 20:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:17:58.604337
+2024-10-06 20:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:17:59.665504
+2024-10-06 20:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:27:58.611337
+2024-10-06 20:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:27:59.666630
+2024-10-06 20:37:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:37:58.605208
+2024-10-06 20:37:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:37:59.662657
+2024-10-06 20:47:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:47:58.600614
+2024-10-06 20:47:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:47:59.664943
+2024-10-06 20:57:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:57:58.616969
+2024-10-06 20:57:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 20:57:59.677485
+2024-10-06 21:03:05 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-06 21:03:05 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-06 21:03:10 INFO event_listener.py:52: Created named pipe yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 21:03:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 21:03:10 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-06 21:05:11 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-02c9d334-83e4-11ef-b275-a036bcba6288
+2024-10-06 21:07:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:07:58.616215
+2024-10-06 21:07:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:07:59.677808
+2024-10-06 21:17:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:17:58.625430
+2024-10-06 21:17:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:17:59.687803
+2024-10-06 21:27:58 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:27:58.620526
+2024-10-06 21:27:59 INFO weather.py:156: Fetched new weather data at 2024-10-06 21:27:59.687777
+2024-10-06 21:30:58 DEBUG _windows.py:218: Stopping worker thread...
+2024-10-06 21:30:58 DEBUG _windows.py:201: Exiting thread
+2024-10-06 21:30:58 DEBUG _windows.py:75: Closing
+2024-10-06 21:30:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002009C4253B0>. Removing link to WinEvent.EventSystemForeground.
+2024-10-06 21:30:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002009C4253B0>. Removing link to WinEvent.EventObjectStateChange.
+2024-10-06 21:30:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x0000020099A54690>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-10-06 21:30:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002009C4244B0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-10-07 17:56:30 INFO log.py:21: Yasb
+2024-10-07 17:56:32 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-07 17:56:38 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:56:38.252146
+2024-10-07 17:56:40 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-07 17:56:41 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:56:41.741476
+2024-10-07 17:56:42 INFO event_listener.py:52: Created named pipe yasb-205adb2b-84cd-11ef-9ac5-a036bcba6288
+2024-10-07 17:56:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-205adb2b-84cd-11ef-9ac5-a036bcba6288
+2024-10-07 17:56:42 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-07 17:56:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-07 17:56:42 DEBUG _windows.py:192: Thread started
+2024-10-07 17:56:44 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-07 17:58:14 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-205adb2b-84cd-11ef-9ac5-a036bcba6288
+2024-10-07 17:58:30 INFO log.py:21: Yasb
+2024-10-07 17:58:33 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-07 17:58:43 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:58:43.813591
+2024-10-07 17:58:45 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-07 17:58:47 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:58:47.767712
+2024-10-07 17:58:48 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-07 17:58:48 INFO event_listener.py:52: Created named pipe yasb-6b77e1ce-84cd-11ef-9c20-a036bcba6288
+2024-10-07 17:58:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6b77e1ce-84cd-11ef-9c20-a036bcba6288
+2024-10-07 17:58:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-07 17:58:48 DEBUG _windows.py:192: Thread started
+2024-10-07 17:58:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6b77e1ce-84cd-11ef-9c20-a036bcba6288
+2024-10-07 17:59:32 INFO tray.py:197: Exiting Application from tray...
+2024-10-07 17:59:32 DEBUG _windows.py:218: Stopping worker thread...
+2024-10-07 17:59:32 DEBUG _windows.py:201: Exiting thread
+2024-10-07 17:59:32 DEBUG _windows.py:75: Closing
+2024-10-07 17:59:36 INFO tray.py:205: Exiting Application from tray...
+2024-10-07 17:59:36 DEBUG _windows.py:218: Stopping worker thread...
+2024-10-07 17:59:36 DEBUG _windows.py:201: Exiting thread
+2024-10-07 17:59:36 DEBUG _windows.py:75: Closing
+2024-10-07 17:59:36 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001B1AB064AF0>. Removing link to WinEvent.EventObjectNameChange.
+2024-10-07 17:59:57 INFO log.py:21: Yasb
+2024-10-07 17:59:57 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-07 17:59:57 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:59:57.840680
+2024-10-07 17:59:57 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-07 17:59:58 INFO weather.py:156: Fetched new weather data at 2024-10-07 17:59:58.224103
+2024-10-07 17:59:58 INFO event_listener.py:52: Created named pipe yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 17:59:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 17:59:58 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-07 17:59:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-07 17:59:58 DEBUG _windows.py:192: Thread started
+2024-10-07 17:59:58 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 18:09:57 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:09:57.838953
+2024-10-07 18:09:58 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:09:58.231625
+2024-10-07 18:19:28 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-07 18:19:28 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-07 18:19:33 INFO event_listener.py:52: Created named pipe yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 18:19:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 18:19:33 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-07 18:19:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-95775193-84cd-11ef-8e3a-a036bcba6288
+2024-10-07 18:19:57 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:19:57.836736
+2024-10-07 18:19:58 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:19:58.228381
+2024-10-07 18:29:57 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:29:57.836328
+2024-10-07 18:29:58 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:29:58.230415
+2024-10-07 18:39:57 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:39:57.837545
+2024-10-07 18:39:58 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:39:58.229667
+2024-10-07 18:44:34 INFO tray.py:193: Reloading Application...
+2024-10-07 18:44:35 INFO log.py:21: Yasb
+2024-10-07 18:44:35 DEBUG win32.py:58: Looking up time zone info from registry
+2024-10-07 18:44:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:44:36.919123
+2024-10-07 18:44:37 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-10-07 18:44:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:44:37.443643
+2024-10-07 18:44:37 INFO event_listener.py:52: Created named pipe yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-10-07 18:44:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-10-07 18:44:37 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-10-07 18:44:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-10-07 18:44:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-10-07 18:44:37 DEBUG _windows.py:192: Thread started
+2024-10-07 18:54:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:54:36.913922
+2024-10-07 18:54:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 18:54:37.456547
+2024-10-07 19:04:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:04:36.918492
+2024-10-07 19:04:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:04:37.449142
+2024-10-07 19:14:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:14:36.915721
+2024-10-07 19:14:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:14:37.446634
+2024-10-07 19:24:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:24:36.913250
+2024-10-07 19:24:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:24:37.443269
+2024-10-07 19:34:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:34:36.922997
+2024-10-07 19:34:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:34:37.453793
+2024-10-07 19:44:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:44:36.923616
+2024-10-07 19:44:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:44:37.440632
+2024-10-07 19:54:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:54:36.921215
+2024-10-07 19:54:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 19:54:37.440004
+2024-10-07 20:04:36 INFO weather.py:156: Fetched new weather data at 2024-10-07 20:04:36.910346
+2024-10-07 20:04:37 INFO weather.py:156: Fetched new weather data at 2024-10-07 20:04:37.442179
+2024-10-07 20:05:47 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-07 20:05:47 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-07 20:05:47 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-07 20:05:47 ERROR media.py:189: MediaWidget: Error setting thumbnail: x1 must be greater than or equal to x0
+2024-10-07 20:11:05 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-10-07 20:11:05 INFO event_listener.py:93: Attempting to reconnect...
+2024-10-07 20:11:10 INFO event_listener.py:52: Created named pipe yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-10-07 20:11:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-10-07 20:11:10 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-10-07 20:11:20 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d268323f-84d3-11ef-89a7-a036bcba6288
+2024-11-01 17:17:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:17:52.847110
+2024-11-01 17:17:53 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-01 17:17:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:17:53.433784
+2024-11-01 17:17:53 INFO event_listener.py:52: Created named pipe yasb-3aad2c65-9875-11ef-8315-a036bcba6288
+2024-11-01 17:17:53 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3aad2c65-9875-11ef-8315-a036bcba6288
+2024-11-01 17:17:53 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-01 17:17:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-01 17:17:53 DEBUG _windows.py:192: Thread started
+2024-11-01 17:17:53 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3aad2c65-9875-11ef-8315-a036bcba6288
+2024-11-01 17:18:17 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:18:28 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:18:43 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:19:04 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:19:18 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:19:27 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:19:55 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:20:17 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:20:28 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:20:43 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:20:55 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:21:05 INFO bar_manager.py:48: Successfully loaded updated stylesheet and applied to all bars.
+2024-11-01 17:27:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:27:52.851452
+2024-11-01 17:27:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:27:53.429290
+2024-11-01 17:37:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:37:52.852197
+2024-11-01 17:37:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:37:53.426872
+2024-11-01 17:47:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:47:52.863476
+2024-11-01 17:47:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:47:53.427000
+2024-11-01 17:57:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:57:52.861005
+2024-11-01 17:57:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 17:57:53.426572
+2024-11-01 18:07:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:07:52.881366
+2024-11-01 18:07:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:07:53.430877
+2024-11-01 18:17:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:17:52.880935
+2024-11-01 18:17:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:17:53.430974
+2024-11-01 18:27:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:27:52.884632
+2024-11-01 18:27:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:27:53.435315
+2024-11-01 18:37:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:37:52.877551
+2024-11-01 18:37:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:37:53.438484
+2024-11-01 18:47:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:47:52.889047
+2024-11-01 18:47:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:47:53.440522
+2024-11-01 18:57:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:57:52.886418
+2024-11-01 18:57:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 18:57:53.452557
+2024-11-01 19:07:52 INFO weather.py:156: Fetched new weather data at 2024-11-01 19:07:52.896255
+2024-11-01 19:07:53 INFO weather.py:156: Fetched new weather data at 2024-11-01 19:07:53.444834
+2024-11-01 19:14:58 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-01 19:14:58 DEBUG _windows.py:201: Exiting thread
+2024-11-01 19:14:58 DEBUG _windows.py:75: Closing
+2024-11-01 19:14:59 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000024376CB5630>. Removing link to WinEvent.EventSystemForeground.
+2024-11-01 19:14:59 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000024376CB5630>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-01 20:44:03 INFO log.py:21: Yasb
+2024-11-01 20:44:06 INFO log.py:21: Yasb
+2024-11-01 20:44:06 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-01 20:44:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:44:07.155561
+2024-11-01 20:44:07 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-01 20:44:11 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-01 20:44:18 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:44:18.799315
+2024-11-01 20:44:21 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-01 20:44:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:44:26.102114
+2024-11-01 20:44:26 INFO event_listener.py:52: Created named pipe yasb-1544a1a3-9892-11ef-8cb7-a036bcba6288
+2024-11-01 20:44:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1544a1a3-9892-11ef-8cb7-a036bcba6288
+2024-11-01 20:44:26 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-01 20:44:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-01 20:44:26 DEBUG _windows.py:192: Thread started
+2024-11-01 20:44:28 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:44:28.727516
+2024-11-01 20:44:28 INFO event_listener.py:52: Created named pipe yasb-16d9cfb4-9892-11ef-a88e-a036bcba6288
+2024-11-01 20:44:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-16d9cfb4-9892-11ef-a88e-a036bcba6288
+2024-11-01 20:44:28 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-01 20:44:30 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-01 20:44:30 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-01 20:44:30 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-01 20:44:31 DEBUG _windows.py:192: Thread started
+2024-11-01 20:44:33 INFO tray.py:205: Exiting Application from tray...
+2024-11-01 20:44:33 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-01 20:44:33 DEBUG _windows.py:201: Exiting thread
+2024-11-01 20:44:33 DEBUG _windows.py:75: Closing
+2024-11-01 20:45:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1544a1a3-9892-11ef-8cb7-a036bcba6288
+2024-11-01 20:54:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:54:07.160036
+2024-11-01 20:54:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 20:54:26.111638
+2024-11-01 21:04:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:04:07.177118
+2024-11-01 21:04:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:04:26.129487
+2024-11-01 21:14:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:14:07.187179
+2024-11-01 21:14:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:14:26.136989
+2024-11-01 21:24:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:24:07.194868
+2024-11-01 21:24:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:24:26.145085
+2024-11-01 21:34:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:34:07.203916
+2024-11-01 21:34:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:34:26.165275
+2024-11-01 21:44:07 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:44:07.192133
+2024-11-01 21:44:26 INFO weather.py:156: Fetched new weather data at 2024-11-01 21:44:26.178319
+2024-11-01 21:47:05 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-01 21:47:05 DEBUG _windows.py:201: Exiting thread
+2024-11-01 21:47:05 DEBUG _windows.py:75: Closing
+2024-11-01 21:47:05 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002AB33C95A90>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-02 07:50:49 INFO log.py:21: Yasb
+2024-11-02 07:50:50 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-02 07:50:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 07:50:53.930943
+2024-11-02 07:50:55 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-02 07:50:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 07:50:57.540653
+2024-11-02 07:50:57 INFO event_listener.py:52: Created named pipe yasb-32054a1e-98ef-11ef-a3a0-a036bcba6288
+2024-11-02 07:50:57 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-02 07:50:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-32054a1e-98ef-11ef-a3a0-a036bcba6288
+2024-11-02 07:50:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-02 07:50:57 DEBUG _windows.py:192: Thread started
+2024-11-02 07:50:58 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-02 07:55:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-32054a1e-98ef-11ef-a3a0-a036bcba6288
+2024-11-02 08:00:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:00:53.947185
+2024-11-02 08:00:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:00:57.558270
+2024-11-02 08:10:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:10:53.968022
+2024-11-02 08:10:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:10:57.565435
+2024-11-02 08:20:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:20:53.979399
+2024-11-02 08:20:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:20:57.555390
+2024-11-02 08:30:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:30:53.990060
+2024-11-02 08:30:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:30:57.572009
+2024-11-02 08:40:53 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:40:53.992290
+2024-11-02 08:40:57 INFO weather.py:156: Fetched new weather data at 2024-11-02 08:40:57.570652
+2024-11-02 10:24:04 INFO log.py:21: Yasb
+2024-11-02 10:24:05 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-02 10:24:05 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:24:05.996330
+2024-11-02 10:24:12 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-02 10:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:24:17.038284
+2024-11-02 10:24:17 INFO event_listener.py:52: Created named pipe yasb-9d590e17-9904-11ef-a3b4-a036bcba6288
+2024-11-02 10:24:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9d590e17-9904-11ef-a3b4-a036bcba6288
+2024-11-02 10:24:17 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-02 10:24:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-02 10:24:17 DEBUG _windows.py:192: Thread started
+2024-11-02 10:24:17 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-02 10:25:30 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9d590e17-9904-11ef-a3b4-a036bcba6288
+2024-11-02 10:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:34:06.000499
+2024-11-02 10:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:34:17.059700
+2024-11-02 10:44:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:44:06.001375
+2024-11-02 10:44:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:44:17.067263
+2024-11-02 10:54:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:54:06.018543
+2024-11-02 10:54:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 10:54:17.070611
+2024-11-02 11:04:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:04:06.010064
+2024-11-02 11:04:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:04:17.123405
+2024-11-02 11:14:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:14:06.019128
+2024-11-02 11:14:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:14:17.128969
+2024-11-02 11:24:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:24:06.013518
+2024-11-02 11:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:24:17.131151
+2024-11-02 11:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:34:06.007319
+2024-11-02 11:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:34:17.146968
+2024-11-02 11:44:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:44:06.030968
+2024-11-02 11:44:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:44:17.156980
+2024-11-02 11:54:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:54:06.038862
+2024-11-02 11:54:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 11:54:17.147746
+2024-11-02 12:04:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:04:06.060203
+2024-11-02 12:04:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:04:17.163336
+2024-11-02 12:14:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:14:06.066235
+2024-11-02 12:14:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:14:17.190158
+2024-11-02 12:24:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:24:06.059714
+2024-11-02 12:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:24:17.193745
+2024-11-02 12:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:34:06.057165
+2024-11-02 12:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:34:17.344235
+2024-11-02 12:44:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:44:06.059327
+2024-11-02 12:44:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:44:17.351693
+2024-11-02 12:54:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:54:06.074463
+2024-11-02 12:54:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 12:54:17.362497
+2024-11-02 13:04:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:04:06.082079
+2024-11-02 13:04:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:04:17.367963
+2024-11-02 13:14:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:14:06.075747
+2024-11-02 13:14:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:14:17.385852
+2024-11-02 13:24:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:24:06.084613
+2024-11-02 13:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:24:17.395538
+2024-11-02 13:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:34:06.091038
+2024-11-02 13:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:34:17.393755
+2024-11-02 13:44:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:44:06.108797
+2024-11-02 13:44:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:44:17.386925
+2024-11-02 13:54:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:54:06.119420
+2024-11-02 13:54:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 13:54:17.400359
+2024-11-02 14:04:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:04:06.120769
+2024-11-02 14:04:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:04:17.409149
+2024-11-02 14:14:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:14:06.361409
+2024-11-02 14:14:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:14:17.415901
+2024-11-02 14:24:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:24:06.359668
+2024-11-02 14:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:24:17.419567
+2024-11-02 14:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:34:06.363711
+2024-11-02 14:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:34:17.429304
+2024-11-02 14:44:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:44:06.356674
+2024-11-02 14:44:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:44:17.448126
+2024-11-02 14:54:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:54:06.364241
+2024-11-02 14:54:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 14:54:17.455242
+2024-11-02 15:04:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:04:06.364258
+2024-11-02 15:04:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:04:17.459697
+2024-11-02 15:14:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:14:06.357167
+2024-11-02 15:14:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:14:17.487425
+2024-11-02 15:24:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:24:06.363383
+2024-11-02 15:24:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:24:17.494218
+2024-11-02 15:34:06 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:34:06.378007
+2024-11-02 15:34:17 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:34:17.516358
+2024-11-02 15:45:45 INFO log.py:21: Yasb
+2024-11-02 15:45:46 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-02 15:45:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:45:47.856355
+2024-11-02 15:45:48 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-02 15:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:45:51.203711
+2024-11-02 15:45:51 INFO event_listener.py:52: Created named pipe yasb-89922048-9931-11ef-a15f-a036bcba6288
+2024-11-02 15:45:51 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-02 15:45:51 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-89922048-9931-11ef-a15f-a036bcba6288
+2024-11-02 15:45:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-02 15:45:51 DEBUG _windows.py:192: Thread started
+2024-11-02 15:45:51 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-02 15:49:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-89922048-9931-11ef-a15f-a036bcba6288
+2024-11-02 15:55:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:55:47.856686
+2024-11-02 15:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 15:55:51.196136
+2024-11-02 16:05:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:05:47.870713
+2024-11-02 16:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:05:51.193115
+2024-11-02 16:15:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:15:47.868141
+2024-11-02 16:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:15:51.201443
+2024-11-02 16:25:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:25:47.887758
+2024-11-02 16:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:25:51.347623
+2024-11-02 16:35:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:35:47.891066
+2024-11-02 16:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:35:51.356572
+2024-11-02 16:45:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:45:47.885820
+2024-11-02 16:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:45:51.357738
+2024-11-02 16:55:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:55:47.879277
+2024-11-02 16:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 16:55:51.354915
+2024-11-02 17:05:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:05:47.890606
+2024-11-02 17:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:05:51.370679
+2024-11-02 17:15:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:15:47.890697
+2024-11-02 17:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:15:51.368311
+2024-11-02 17:25:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:25:47.895158
+2024-11-02 17:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:25:51.366481
+2024-11-02 17:35:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:35:47.904728
+2024-11-02 17:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:35:51.377926
+2024-11-02 17:45:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:45:47.914918
+2024-11-02 17:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:45:51.400854
+2024-11-02 17:55:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:55:47.918803
+2024-11-02 17:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 17:55:51.420233
+2024-11-02 18:05:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:05:47.916400
+2024-11-02 18:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:05:51.422581
+2024-11-02 18:15:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:15:47.925698
+2024-11-02 18:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:15:51.424765
+2024-11-02 18:25:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:25:47.936340
+2024-11-02 18:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:25:51.429954
+2024-11-02 18:35:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:35:47.945625
+2024-11-02 18:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:35:51.443139
+2024-11-02 18:45:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:45:47.949005
+2024-11-02 18:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:45:51.452363
+2024-11-02 18:55:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:55:47.954696
+2024-11-02 18:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 18:55:51.440824
+2024-11-02 19:05:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:05:47.982811
+2024-11-02 19:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:05:51.444450
+2024-11-02 19:15:47 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:15:47.990711
+2024-11-02 19:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:15:51.445926
+2024-11-02 19:25:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:25:48.005100
+2024-11-02 19:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:25:51.444508
+2024-11-02 19:35:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:35:48.010774
+2024-11-02 19:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:35:51.453476
+2024-11-02 19:45:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:45:48.008005
+2024-11-02 19:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:45:51.445875
+2024-11-02 19:55:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:55:48.024908
+2024-11-02 19:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 19:55:51.442115
+2024-11-02 20:05:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:05:48.018355
+2024-11-02 20:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:05:51.443010
+2024-11-02 20:15:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:15:48.044807
+2024-11-02 20:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:15:51.454392
+2024-11-02 20:25:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:25:48.034617
+2024-11-02 20:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:25:51.463984
+2024-11-02 20:35:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:35:48.035005
+2024-11-02 20:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:35:51.470461
+2024-11-02 20:45:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:45:48.049977
+2024-11-02 20:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:45:51.477728
+2024-11-02 20:55:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:55:48.077510
+2024-11-02 20:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 20:55:51.476218
+2024-11-02 21:05:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:05:48.065516
+2024-11-02 21:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:05:51.481504
+2024-11-02 21:15:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:15:48.077336
+2024-11-02 21:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:15:51.491893
+2024-11-02 21:25:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:25:48.075752
+2024-11-02 21:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:25:51.501191
+2024-11-02 21:35:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:35:48.072828
+2024-11-02 21:35:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:35:51.506013
+2024-11-02 21:45:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:45:48.347942
+2024-11-02 21:45:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:45:51.530827
+2024-11-02 21:55:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:55:48.358855
+2024-11-02 21:55:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 21:55:51.533247
+2024-11-02 22:05:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:05:48.356279
+2024-11-02 22:05:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:05:51.548387
+2024-11-02 22:15:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:15:48.354788
+2024-11-02 22:15:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:15:51.556419
+2024-11-02 22:25:48 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:25:48.357878
+2024-11-02 22:25:51 INFO weather.py:156: Fetched new weather data at 2024-11-02 22:25:51.567460
+2024-11-03 08:17:15 INFO log.py:21: Yasb
+2024-11-03 08:17:19 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-03 08:17:25 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:17:25.792725
+2024-11-03 08:17:27 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-03 08:17:32 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:17:32.652006
+2024-11-03 08:17:33 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-03 08:17:33 INFO event_listener.py:52: Created named pipe yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:17:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:17:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-03 08:17:33 DEBUG _windows.py:192: Thread started
+2024-11-03 08:17:33 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-03 08:18:45 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:22:40 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2024-11-03 08:22:40 INFO event_listener.py:93: Attempting to reconnect...
+2024-11-03 08:22:45 INFO event_listener.py:52: Created named pipe yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:22:45 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:22:45 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-03 08:23:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-13352be3-99bc-11ef-8255-a036bcba6288
+2024-11-03 08:27:25 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:27:25.802610
+2024-11-03 08:27:32 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:27:32.665037
+2024-11-03 08:37:25 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:37:25.795244
+2024-11-03 08:37:32 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:37:32.660811
+2024-11-03 08:47:25 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:47:25.808916
+2024-11-03 08:47:32 INFO weather.py:156: Fetched new weather data at 2024-11-03 08:47:32.674813
+2024-11-03 08:55:10 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-03 08:55:10 DEBUG _windows.py:201: Exiting thread
+2024-11-03 08:55:10 DEBUG _windows.py:75: Closing
+2024-11-03 08:55:10 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000028915F880F0>. Removing link to WinEvent.EventSystemForeground.
+2024-11-03 08:55:10 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000028915F880F0>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-03 10:37:12 INFO log.py:21: Yasb
+2024-11-03 10:37:16 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-03 10:37:22 INFO weather.py:156: Fetched new weather data at 2024-11-03 10:37:22.638955
+2024-11-03 10:37:26 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-03 10:37:32 INFO weather.py:156: Fetched new weather data at 2024-11-03 10:37:32.219606
+2024-11-03 10:37:33 INFO event_listener.py:52: Created named pipe yasb-a1baca1a-99cf-11ef-8e25-a036bcba6288
+2024-11-03 10:37:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a1baca1a-99cf-11ef-8e25-a036bcba6288
+2024-11-03 10:37:33 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-03 10:37:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-03 10:37:33 DEBUG _windows.py:192: Thread started
+2024-11-03 10:37:34 ERROR main.py:63: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 61, in force_update
+    self._on_current_session_changed(self._session_manager, None)
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 116, in _on_current_session_changed
+    self._on_media_properties_changed(self._current_session, None)
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 163, in _on_media_properties_changed
+    asyncio.create_task(self._update_media_properties(session))
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 420, in create_task
+    task = loop.create_task(coro)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 458, in create_task
+    task = tasks.Task(coro, loop=self, name=name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 481, in call_soon
+    return self.call_later(0, callback, *args, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 471, in call_later
+    return self._add_callback(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 477, in _add_callback
+    return self._timer.add_callback(handle, delay)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 257, in add_callback
+    assert timerid not in self.__callbacks
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+2024-11-03 10:37:34 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-03 11:16:00 INFO log.py:21: Yasb
+2024-11-03 11:16:01 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-03 11:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:16:03.468170
+2024-11-03 11:16:03 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-03 11:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:16:04.185905
+2024-11-03 11:16:04 INFO event_listener.py:52: Created named pipe yasb-03c5a32a-99d5-11ef-a04f-a036bcba6288
+2024-11-03 11:16:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-03c5a32a-99d5-11ef-a04f-a036bcba6288
+2024-11-03 11:16:04 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-03 11:16:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-03 11:16:04 DEBUG _windows.py:192: Thread started
+2024-11-03 11:16:04 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-03 11:16:26 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-03c5a32a-99d5-11ef-a04f-a036bcba6288
+2024-11-03 11:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:26:03.475793
+2024-11-03 11:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:26:04.189851
+2024-11-03 11:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:36:03.467286
+2024-11-03 11:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:36:04.202411
+2024-11-03 11:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:46:03.482691
+2024-11-03 11:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:46:04.217031
+2024-11-03 11:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:56:03.488176
+2024-11-03 11:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 11:56:04.240896
+2024-11-03 12:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:06:03.511266
+2024-11-03 12:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:06:04.243303
+2024-11-03 12:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:16:03.516787
+2024-11-03 12:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:16:04.244235
+2024-11-03 12:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:26:03.534314
+2024-11-03 12:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:26:04.242787
+2024-11-03 12:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:36:03.534526
+2024-11-03 12:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:36:04.326411
+2024-11-03 12:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:46:03.542769
+2024-11-03 12:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:46:04.332622
+2024-11-03 12:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:56:03.562324
+2024-11-03 12:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 12:56:04.326209
+2024-11-03 13:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:06:03.575434
+2024-11-03 13:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:06:04.337119
+2024-11-03 13:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:16:03.581056
+2024-11-03 13:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:16:04.355569
+2024-11-03 13:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:26:03.589043
+2024-11-03 13:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:26:04.361972
+2024-11-03 13:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:36:03.605209
+2024-11-03 13:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:36:04.399222
+2024-11-03 13:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:46:03.611478
+2024-11-03 13:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:46:04.403367
+2024-11-03 13:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:56:03.611452
+2024-11-03 13:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 13:56:04.417069
+2024-11-03 14:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:06:03.618649
+2024-11-03 14:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:06:04.424203
+2024-11-03 14:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:16:03.613516
+2024-11-03 14:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:16:04.419427
+2024-11-03 14:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:26:03.615809
+2024-11-03 14:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:26:04.422884
+2024-11-03 14:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:36:03.623553
+2024-11-03 14:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:36:04.430842
+2024-11-03 14:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:46:03.645854
+2024-11-03 14:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:46:04.429711
+2024-11-03 14:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:56:03.640183
+2024-11-03 14:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 14:56:04.433737
+2024-11-03 15:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:06:03.653902
+2024-11-03 15:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:06:04.442351
+2024-11-03 15:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:16:03.662030
+2024-11-03 15:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:16:04.435542
+2024-11-03 15:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:26:03.662506
+2024-11-03 15:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:26:04.449911
+2024-11-03 15:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:36:03.674075
+2024-11-03 15:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:36:04.463005
+2024-11-03 15:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:46:03.680762
+2024-11-03 15:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:46:04.459097
+2024-11-03 15:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:56:03.679272
+2024-11-03 15:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 15:56:04.465869
+2024-11-03 16:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:06:03.683291
+2024-11-03 16:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:06:04.479074
+2024-11-03 16:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:16:03.691402
+2024-11-03 16:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:16:04.485721
+2024-11-03 16:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:26:03.705987
+2024-11-03 16:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:26:04.501900
+2024-11-03 16:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:36:03.716167
+2024-11-03 16:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:36:04.501333
+2024-11-03 16:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:46:03.717838
+2024-11-03 16:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:46:04.517609
+2024-11-03 16:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:56:03.735841
+2024-11-03 16:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 16:56:04.530956
+2024-11-03 17:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:06:03.754334
+2024-11-03 17:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:06:04.530526
+2024-11-03 17:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:16:03.758540
+2024-11-03 17:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:16:04.555726
+2024-11-03 17:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:26:03.759617
+2024-11-03 17:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:26:04.549251
+2024-11-03 17:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:36:03.762386
+2024-11-03 17:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:36:04.570317
+2024-11-03 17:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:46:03.786123
+2024-11-03 17:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:46:04.580773
+2024-11-03 17:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:56:03.802498
+2024-11-03 17:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 17:56:04.588418
+2024-11-03 18:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:06:03.808694
+2024-11-03 18:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:06:04.584272
+2024-11-03 18:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:16:03.808421
+2024-11-03 18:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:16:04.589612
+2024-11-03 18:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:26:03.833184
+2024-11-03 18:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:26:04.616252
+2024-11-03 18:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:36:03.841262
+2024-11-03 18:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:36:04.620731
+2024-11-03 18:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:46:03.851258
+2024-11-03 18:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:46:04.615342
+2024-11-03 18:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:56:03.855077
+2024-11-03 18:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 18:56:04.615260
+2024-11-03 19:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:06:03.884897
+2024-11-03 19:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:06:04.633470
+2024-11-03 19:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:16:03.890025
+2024-11-03 19:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:16:04.634718
+2024-11-03 19:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:26:03.907099
+2024-11-03 19:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:26:04.636401
+2024-11-03 19:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:36:03.910701
+2024-11-03 19:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:36:04.657776
+2024-11-03 19:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:46:03.911654
+2024-11-03 19:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:46:04.675806
+2024-11-03 19:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:56:03.919346
+2024-11-03 19:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 19:56:04.683824
+2024-11-03 20:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:06:03.938202
+2024-11-03 20:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:06:04.698071
+2024-11-03 20:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:16:03.938345
+2024-11-03 20:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:16:04.717911
+2024-11-03 20:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:26:03.952467
+2024-11-03 20:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:26:04.733609
+2024-11-03 20:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:36:03.957891
+2024-11-03 20:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:36:04.755532
+2024-11-03 20:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:46:03.954851
+2024-11-03 20:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:46:04.756262
+2024-11-03 20:56:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:56:03.969243
+2024-11-03 20:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 20:56:04.761592
+2024-11-03 21:06:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:06:03.977922
+2024-11-03 21:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:06:04.761746
+2024-11-03 21:16:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:16:03.974205
+2024-11-03 21:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:16:04.769619
+2024-11-03 21:26:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:26:03.989574
+2024-11-03 21:26:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:26:04.771330
+2024-11-03 21:36:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:36:03.994732
+2024-11-03 21:36:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:36:04.762744
+2024-11-03 21:46:03 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:46:03.999111
+2024-11-03 21:46:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:46:04.763128
+2024-11-03 21:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:56:04.003932
+2024-11-03 21:56:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 21:56:04.783176
+2024-11-03 22:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 22:06:04.009809
+2024-11-03 22:06:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 22:06:04.790119
+2024-11-03 22:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 22:16:04.000918
+2024-11-03 22:16:04 INFO weather.py:156: Fetched new weather data at 2024-11-03 22:16:04.781243
+2024-11-03 22:22:04 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-03 22:22:04 DEBUG _windows.py:201: Exiting thread
+2024-11-03 22:22:04 DEBUG _windows.py:75: Closing
+2024-11-03 22:22:04 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002CCDF7C5630>. Removing link to WinEvent.EventSystemForeground.
+2024-11-03 22:22:04 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002CCDF7C5630>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-03 22:22:04 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002CCDA8B5A90>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-03 22:22:04 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002CCDF7C4730>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-04 15:04:21 INFO log.py:21: Yasb
+2024-11-04 15:04:24 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-04 15:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:04:29.664598
+2024-11-04 15:04:31 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-04 15:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:04:34.687322
+2024-11-04 15:04:35 INFO event_listener.py:52: Created named pipe yasb-1a47dd05-9abe-11ef-b70c-a036bcba6288
+2024-11-04 15:04:35 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a47dd05-9abe-11ef-b70c-a036bcba6288
+2024-11-04 15:04:35 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-04 15:04:35 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-04 15:04:35 DEBUG _windows.py:192: Thread started
+2024-11-04 15:04:35 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-04 15:14:21 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1a47dd05-9abe-11ef-b70c-a036bcba6288
+2024-11-04 15:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:14:29.675310
+2024-11-04 15:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:14:34.692245
+2024-11-04 15:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:24:29.691151
+2024-11-04 15:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:24:34.703003
+2024-11-04 15:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:34:29.712077
+2024-11-04 15:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:34:34.693621
+2024-11-04 15:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:44:29.713627
+2024-11-04 15:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:44:34.690024
+2024-11-04 15:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:54:29.720597
+2024-11-04 15:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 15:54:34.707683
+2024-11-04 16:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:04:29.722116
+2024-11-04 16:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:04:34.716139
+2024-11-04 16:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:14:29.726511
+2024-11-04 16:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:14:34.720993
+2024-11-04 16:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:24:29.730178
+2024-11-04 16:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:24:34.736892
+2024-11-04 16:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:34:29.730278
+2024-11-04 16:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:34:34.738570
+2024-11-04 16:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:44:29.732695
+2024-11-04 16:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:44:34.737001
+2024-11-04 16:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:54:29.729388
+2024-11-04 16:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 16:54:34.739538
+2024-11-04 17:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:04:29.723060
+2024-11-04 17:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:04:34.738073
+2024-11-04 17:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:14:29.726368
+2024-11-04 17:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:14:34.742238
+2024-11-04 17:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:24:29.727818
+2024-11-04 17:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:24:34.757942
+2024-11-04 17:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:34:29.733317
+2024-11-04 17:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:34:34.772121
+2024-11-04 17:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:44:29.738079
+2024-11-04 17:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:44:34.795386
+2024-11-04 17:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:54:29.750423
+2024-11-04 17:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 17:54:34.789281
+2024-11-04 18:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:04:29.755012
+2024-11-04 18:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:04:34.812156
+2024-11-04 18:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:14:29.764420
+2024-11-04 18:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:14:34.805251
+2024-11-04 18:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:24:29.761096
+2024-11-04 18:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:24:34.809047
+2024-11-04 18:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:34:29.766891
+2024-11-04 18:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:34:34.819624
+2024-11-04 18:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:44:29.751800
+2024-11-04 18:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:44:34.826898
+2024-11-04 18:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:54:29.779901
+2024-11-04 18:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 18:54:34.819653
+2024-11-04 19:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:04:29.773528
+2024-11-04 19:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:04:34.829825
+2024-11-04 19:05:16 ERROR weather.py:197: Error occurred: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2024-11-04 19:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:14:29.774002
+2024-11-04 19:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:14:34.853934
+2024-11-04 19:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:24:29.794587
+2024-11-04 19:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:24:34.869408
+2024-11-04 19:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:34:29.790833
+2024-11-04 19:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:34:34.878213
+2024-11-04 19:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:44:29.787079
+2024-11-04 19:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:44:34.892554
+2024-11-04 19:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:54:29.796936
+2024-11-04 19:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 19:54:34.921136
+2024-11-04 20:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:04:29.789986
+2024-11-04 20:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:04:34.908897
+2024-11-04 20:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:14:29.804188
+2024-11-04 20:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:14:34.921005
+2024-11-04 20:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:24:29.825095
+2024-11-04 20:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:24:34.929022
+2024-11-04 20:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:34:29.821111
+2024-11-04 20:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:34:34.937403
+2024-11-04 20:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:44:29.840201
+2024-11-04 20:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:44:34.943038
+2024-11-04 20:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:54:29.850060
+2024-11-04 20:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 20:54:34.952179
+2024-11-04 21:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:04:29.864920
+2024-11-04 21:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:04:34.948446
+2024-11-04 21:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:14:29.880206
+2024-11-04 21:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:14:34.951145
+2024-11-04 21:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:24:29.891577
+2024-11-04 21:24:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:24:34.948358
+2024-11-04 21:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:34:29.883799
+2024-11-04 21:34:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:34:34.966398
+2024-11-04 21:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:44:29.897917
+2024-11-04 21:44:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:44:34.959198
+2024-11-04 21:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:54:29.894979
+2024-11-04 21:54:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 21:54:34.967023
+2024-11-04 22:04:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:04:29.916503
+2024-11-04 22:04:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:04:34.970516
+2024-11-04 22:14:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:14:29.922535
+2024-11-04 22:14:34 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:14:34.987209
+2024-11-04 22:24:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:24:29.933330
+2024-11-04 22:24:35 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:24:35.013864
+2024-11-04 22:34:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:34:29.935786
+2024-11-04 22:34:35 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:34:35.008797
+2024-11-04 22:44:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:44:29.940649
+2024-11-04 22:44:35 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:44:35.016695
+2024-11-04 22:54:29 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:54:29.950206
+2024-11-04 22:54:35 INFO weather.py:156: Fetched new weather data at 2024-11-04 22:54:35.013423
+2024-11-04 22:57:55 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-04 22:57:55 DEBUG _windows.py:201: Exiting thread
+2024-11-04 22:57:55 DEBUG _windows.py:75: Closing
+2024-11-04 22:57:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000020558F32CB0>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-04 22:57:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x0000020528B6FE30>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-04 22:57:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002055BF331B0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-04 22:57:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of ActiveLayoutWidget object at 0x0000020528B8A5D0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 08:05:09 INFO log.py:21: Yasb
+2024-11-05 08:05:12 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-05 08:05:15 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:05:15.549516
+2024-11-05 08:05:17 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-05 08:05:20 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:05:20.153139
+2024-11-05 08:05:20 INFO event_listener.py:52: Created named pipe yasb-b36dedb7-9b4c-11ef-9165-a036bcba6288
+2024-11-05 08:05:20 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b36dedb7-9b4c-11ef-9165-a036bcba6288
+2024-11-05 08:05:20 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-05 08:05:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-05 08:05:20 DEBUG _windows.py:192: Thread started
+2024-11-05 08:05:20 ERROR main.py:63: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 61, in force_update
+    self._on_current_session_changed(self._session_manager, None)
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 116, in _on_current_session_changed
+    self._on_media_properties_changed(self._current_session, None)
+  File "C:\Users\bennp\Documents\SysAdmin\yasb\src\core\utils\win32\media.py", line 163, in _on_media_properties_changed
+    asyncio.create_task(self._update_media_properties(session))
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 420, in create_task
+    task = loop.create_task(coro)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 458, in create_task
+    task = tasks.Task(coro, loop=self, name=name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 481, in call_soon
+    return self.call_later(0, callback, *args, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 471, in call_later
+    return self._add_callback(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 477, in _add_callback
+    return self._timer.add_callback(handle, delay)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bennp\AppData\Local\Programs\Python\Python312\Lib\site-packages\qasync\__init__.py", line 257, in add_callback
+    assert timerid not in self.__callbacks
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+2024-11-05 08:05:21 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-05 08:05:36 INFO log.py:21: Yasb
+2024-11-05 08:05:37 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-05 08:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:05:41.775187
+2024-11-05 08:05:42 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-05 08:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:05:42.762345
+2024-11-05 08:05:42 INFO event_listener.py:52: Created named pipe yasb-c0e5a765-9b4c-11ef-b7c3-a036bcba6288
+2024-11-05 08:05:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-c0e5a765-9b4c-11ef-b7c3-a036bcba6288
+2024-11-05 08:05:42 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-05 08:05:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-05 08:05:42 DEBUG _windows.py:192: Thread started
+2024-11-05 08:05:43 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-05 08:06:14 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-c0e5a765-9b4c-11ef-b7c3-a036bcba6288
+2024-11-05 08:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:15:41.784669
+2024-11-05 08:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:15:42.779150
+2024-11-05 08:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:25:41.791791
+2024-11-05 08:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:25:42.789240
+2024-11-05 08:35:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:35:41.819508
+2024-11-05 08:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:35:42.810009
+2024-11-05 08:45:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:45:41.813736
+2024-11-05 08:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:45:42.812143
+2024-11-05 08:55:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:55:41.809178
+2024-11-05 08:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 08:55:42.821215
+2024-11-05 09:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:05:41.807080
+2024-11-05 09:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:05:42.832926
+2024-11-05 09:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:15:41.831958
+2024-11-05 09:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:15:42.827949
+2024-11-05 09:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:25:41.821930
+2024-11-05 09:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:25:42.831315
+2024-11-05 09:35:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:35:41.831107
+2024-11-05 09:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:35:42.847609
+2024-11-05 09:45:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:45:41.840991
+2024-11-05 09:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:45:42.842440
+2024-11-05 09:55:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:55:41.840676
+2024-11-05 09:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 09:55:42.839010
+2024-11-05 10:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:05:41.856958
+2024-11-05 10:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:05:42.851138
+2024-11-05 10:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:15:41.864494
+2024-11-05 10:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:15:42.853022
+2024-11-05 10:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:25:41.862682
+2024-11-05 10:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:25:42.860501
+2024-11-05 10:35:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:35:41.863561
+2024-11-05 10:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:35:42.862568
+2024-11-05 10:45:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:45:41.872766
+2024-11-05 10:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:45:42.875690
+2024-11-05 10:55:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:55:41.876497
+2024-11-05 10:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 10:55:42.884375
+2024-11-05 11:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:05:41.870280
+2024-11-05 11:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:05:42.891510
+2024-11-05 11:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:15:41.896800
+2024-11-05 11:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:15:42.884390
+2024-11-05 11:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:25:41.910525
+2024-11-05 11:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:25:42.891942
+2024-11-05 11:35:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:35:41.919381
+2024-11-05 11:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:35:42.909454
+2024-11-05 11:45:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:45:41.924565
+2024-11-05 11:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:45:42.909001
+2024-11-05 11:55:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:55:41.935765
+2024-11-05 11:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 11:55:42.903592
+2024-11-05 12:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:05:41.937615
+2024-11-05 12:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:05:42.918225
+2024-11-05 12:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:15:41.947961
+2024-11-05 12:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:15:42.924874
+2024-11-05 12:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:25:41.971274
+2024-11-05 12:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:25:42.941038
+2024-11-05 12:35:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:35:41.968555
+2024-11-05 12:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:35:42.953918
+2024-11-05 12:45:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:45:41.972802
+2024-11-05 12:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:45:42.954807
+2024-11-05 12:55:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:55:41.986183
+2024-11-05 12:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 12:55:42.950889
+2024-11-05 13:05:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:05:41.984016
+2024-11-05 13:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:05:42.964145
+2024-11-05 13:15:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:15:41.991248
+2024-11-05 13:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:15:42.987435
+2024-11-05 13:25:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:25:41.993570
+2024-11-05 13:25:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:25:43.000860
+2024-11-05 13:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:35:42.017771
+2024-11-05 13:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:35:42.995338
+2024-11-05 13:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:45:42.021824
+2024-11-05 13:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:45:42.993332
+2024-11-05 13:45:53 ERROR weather.py:197: Error occurred: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-11-05 13:45:53 ERROR weather.py:197: Error occurred: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-11-05 13:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:55:42.016125
+2024-11-05 13:55:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 13:55:43.011735
+2024-11-05 14:05:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:05:42.015064
+2024-11-05 14:05:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:05:43.016478
+2024-11-05 14:15:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:15:42.013431
+2024-11-05 14:15:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:15:43.009818
+2024-11-05 14:25:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:25:42.016596
+2024-11-05 14:25:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:25:43.020557
+2024-11-05 14:35:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:35:42.008390
+2024-11-05 14:35:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:35:43.019494
+2024-11-05 14:45:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:45:42.022776
+2024-11-05 14:45:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:45:43.035666
+2024-11-05 14:55:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:55:42.013565
+2024-11-05 14:55:43 INFO weather.py:156: Fetched new weather data at 2024-11-05 14:55:43.027298
+2024-11-05 15:01:58 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-05 15:01:58 DEBUG _windows.py:201: Exiting thread
+2024-11-05 15:01:58 DEBUG _windows.py:75: Closing
+2024-11-05 15:01:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x00000269A0725A90>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 15:01:58 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x00000269A5680730>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 17:16:29 INFO log.py:21: Yasb
+2024-11-05 17:16:33 INFO log.py:21: Yasb
+2024-11-05 17:16:33 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-05 17:16:33 DEBUG win32.py:58: Looking up time zone info from registry
+2024-11-05 17:16:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:16:33.943851
+2024-11-05 17:16:36 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-05 17:16:38 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:16:38.648983
+2024-11-05 17:16:39 DEBUG __init__.py:143: CoInitializeEx(None, 2)
+2024-11-05 17:16:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:16:41.958024
+2024-11-05 17:16:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:16:41.973650
+2024-11-05 17:16:42 INFO event_listener.py:52: Created named pipe yasb-b9bcc942-9b99-11ef-af1d-a036bcba6288
+2024-11-05 17:16:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b9bcc942-9b99-11ef-af1d-a036bcba6288
+2024-11-05 17:16:42 INFO event_listener.py:52: Created named pipe yasb-b9b9bea0-9b99-11ef-b1ce-a036bcba6288
+2024-11-05 17:16:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b9b9bea0-9b99-11ef-b1ce-a036bcba6288
+2024-11-05 17:16:42 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-05 17:16:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-05 17:16:42 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-05 17:16:42 DEBUG _windows.py:192: Thread started
+2024-11-05 17:16:43 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2024-11-05 17:16:43 INFO watcher.py:39: Created file watcher for path C:\Users\bennp\.config\yasb
+2024-11-05 17:16:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2024-11-05 17:16:43 DEBUG _windows.py:192: Thread started
+2024-11-05 17:17:28 INFO tray.py:205: Exiting Application from tray...
+2024-11-05 17:17:28 DEBUG _windows.py:218: Stopping worker thread...
+2024-11-05 17:17:28 DEBUG _windows.py:201: Exiting thread
+2024-11-05 17:17:28 DEBUG _windows.py:75: Closing
+2024-11-05 17:17:29 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001D57F3D2CB0>. Removing link to WinEvent.EventObjectNameChange.
+2024-11-05 17:17:29 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001D5033E4230>. Removing link to WinEvent.EventObjectNameChange.
+2024-11-05 17:17:30 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000001D57F3D2CB0>. Removing link to WinEvent.EventSystemForeground.
+2024-11-05 17:17:31 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000001D5033E4230>. Removing link to WinEvent.EventSystemForeground.
+2024-11-05 17:17:53 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b9b9bea0-9b99-11ef-b1ce-a036bcba6288
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_connect of WorkspaceWidget object at 0x000001D54FFDFE30>. Removing link to KomorebiEvent.KomorebiConnect.
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_connect of WorkspaceWidget object at 0x000001D50337F2F0>. Removing link to KomorebiEvent.KomorebiConnect.
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000001D54FFDFE30>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000001D50337F2F0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of ActiveLayoutWidget object at 0x000001D5504265D0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 17:17:53 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of ActiveLayoutWidget object at 0x000001D50337FA70>. Removing link to KomorebiEvent.KomorebiUpdate.
+2024-11-05 17:17:53 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b9bcc942-9b99-11ef-af1d-a036bcba6288
+2024-11-05 17:18:05 ERROR weather.py:197: Error occurred: HTTP Error 502: Bad Gateway
+2024-11-05 17:18:09 ERROR weather.py:197: Error occurred: HTTP Error 502: Bad Gateway
+2024-11-05 17:18:18 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001D57F3D2CB0>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-05 17:18:19 ERROR weather.py:197: Error occurred: HTTP Error 502: Bad Gateway
+2024-11-05 17:18:20 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001D5033E4230>. Removing link to WinEvent.EventObjectStateChange.
+2024-11-05 17:18:39 ERROR weather.py:197: Error occurred: HTTP Error 504: Gateway Time-out
+2024-11-05 17:26:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:26:33.939671
+2024-11-05 17:26:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:26:41.958078
+2024-11-05 17:36:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:36:33.934440
+2024-11-05 17:36:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:36:41.951083
+2024-11-05 17:46:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:46:33.948089
+2024-11-05 17:46:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:46:41.967049
+2024-11-05 17:56:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:56:33.967131
+2024-11-05 17:56:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 17:56:41.981171
+2024-11-05 18:06:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:06:33.973735
+2024-11-05 18:06:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:06:41.992383
+2024-11-05 18:16:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:16:33.974682
+2024-11-05 18:16:41 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:16:41.997363
+2024-11-05 18:26:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:26:33.972696
+2024-11-05 18:26:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:26:42.010668
+2024-11-05 18:36:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:36:33.975684
+2024-11-05 18:36:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:36:42.026959
+2024-11-05 18:46:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:46:33.968405
+2024-11-05 18:46:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:46:42.025889
+2024-11-05 18:56:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:56:33.973585
+2024-11-05 18:56:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 18:56:42.034416
+2024-11-05 19:06:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:06:33.965311
+2024-11-05 19:06:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:06:42.023482
+2024-11-05 19:16:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:16:33.970950
+2024-11-05 19:16:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:16:42.159351
+2024-11-05 19:26:33 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:26:33.977643
+2024-11-05 19:26:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:26:42.359614
+2024-11-05 19:36:34 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:36:34.001747
+2024-11-05 19:36:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:36:42.364274
+2024-11-05 19:46:34 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:46:34.000075
+2024-11-05 19:46:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:46:42.357710
+2024-11-05 19:56:34 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:56:34.003579
+2024-11-05 19:56:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 19:56:42.363878
+2024-11-05 20:06:34 INFO weather.py:156: Fetched new weather data at 2024-11-05 20:06:34.009432
+2024-11-05 20:06:42 INFO weather.py:156: Fetched new weather data at 2024-11-05 20:06:42.352120
