@@ -1,0 +1,47 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "ascii",                  // 'ascii' is valid; no change needed here
+    "source": "/Users/bp/.config/fastfetch/roses.txt",         
+    "padding": {
+      "left": 2
+    }
+  },
+  "display": {
+    "separator": "  »  ",
+    "color": "magenta",
+    "size": {
+      "maxPrefix": "MB",
+      "ndigits": 1
+    },
+    "temp": {
+      "unit": "C"
+    },
+    "bar": {
+      "width": 10,
+      "border": false,
+      "charTotal": "-",
+      "charElapsed": "╸"
+    },
+    "percent": {
+      "type": "bar"    // Valid value for percent.type is likely 'bar' or 'text', try 'bar'
+    }
+  },
+  "modules": [
+    {
+      "type": "title",   // 'title' should be fine
+      "fqdn": false,
+      "color": {
+        "user": "blue",
+        "at": "default",
+        "host": "blue"
+      },
+      "key": "User"
+    },
+    "break",
+    {
+      "type": "colors",   // 'colors' is a valid module
+      "symbol": "square"
+    }
+  ]
+}
